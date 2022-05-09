@@ -3,4 +3,5 @@
 
 抖音扫一扫添加微信
 
-<img src="https://assets.meeluo.com/douyin_qrcode/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png" />
+<img src="https://assets.meeluo.com/douyin_qrcode/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png" style="height: 120px; height: 120px" />
+微信：print_fuck_world
