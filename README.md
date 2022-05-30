@@ -20,4 +20,4 @@
 
 4、支持抖音网页版一键上号
 
-<img src="https://assets.meeluo.com/douyin_qrcode%2FWX20220530-154210%402x.png" style="height: 100%;" />
+<img src="https://assets.meeluo.com/douyin_qrcode%2FWX20220530-154210%402x.png" style="width: 100%;" />
